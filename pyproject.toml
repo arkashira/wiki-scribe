@@ -6,7 +6,6 @@ build-backend = "poetry.masonry.api"
 name = "wiki-scribe"
 version = "0.1.0"
 description = ""
-authors = ["Your Name"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
